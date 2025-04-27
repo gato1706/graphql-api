@@ -1,3 +1,6 @@
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+
 # GraphQL API - Estudo com TypeScript e Apollo Server
 
 Este projeto é uma API simples construída em **TypeScript** usando **Apollo Server** para praticar e aprofundar os conceitos de **GraphQL**.  
